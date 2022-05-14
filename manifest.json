@@ -2,7 +2,7 @@
     "background_color": "#ffffff",
     "description": "We Are The Express Today Team. We Make Tech And Interview Podcasts With Muhammed Fuhad.",
     "dir": "ltr",
-    "display": "standalone",
+    "display": "fullscreen",
     "name": "Express Today - Game",
     "orientation": "landscape",
     "scope": "/",
