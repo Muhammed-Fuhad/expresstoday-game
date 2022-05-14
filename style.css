@@ -187,6 +187,14 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
   color: red;
 }
 
+.card-desktop p{
+  text-align: center;
+}
+
+.card-desktop a{
+  color: red;
+}
+
 @media (max-width:375px) {
   nav .logo{
     font-size: 24px;
